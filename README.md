@@ -1,5 +1,5 @@
 # 1 项目介绍
-基于SSM+Vue的水果商城系统：后端 SpringBoot、Mybatis-Plus，前端Vue+ElementUI，具体功能如下：
+基于SSM+Vue的酒店管理系统：后端 SpringBoot、Mybatis-Plus，前端Vue+ElementUI，具体功能如下：
 ## 管理端
 - 个人中心：查看和修改个人信息
 - 用户管理
